@@ -1,0 +1,6 @@
+front_page.front:
+  path: '/frontpage'
+  defaults:
+    _controller: \Drupal\front_page\Controller\FrontPageController::front
+  requirements:
+    _access: 'TRUE'
