@@ -1,5 +1,5 @@
 name: 'Front page'
 description: '.'
-core: 8.x
 type: module
 package: Systonic
+core_version_requirement: ^8 || ^9
